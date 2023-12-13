@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="200" height="50" viewBox="0 0 200 50"
+     direction="ltr" xml:lang="id">
+
+  <title direction="ltr" xml:lang="id">Bukapedia Logo</title>
+
+  <!-- Background Rectangle -->
+  <rect width="100%" height="100%" fill="#3498db"/>
+
+  <!-- Text: "Buka" -->
+  <text x="20" y="35" text-anchor="start" font-size="24" fill="#fff" font-family="Arial, sans-serif">Buka</text>
+
+  <!-- Text: "pedia" -->
+  <text x="70" y="35" text-anchor="start" font-size="24" fill="#ecf0f1" font-family="Arial, sans-serif">pedia</text>
+
+</svg>
